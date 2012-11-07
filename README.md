@@ -12,6 +12,7 @@ Codeigniter 2.1.3
 Installation
 ============
 
-Make a Folder named (kurdish) in (system/language/) and put the ile there.
+Download the files above
+Make a Folder named (kurdish) in (system/language/) and put the files you just downloaded.
 And now go to (application/config/) folder and open (config.php) file and find this line ($config['language'] = 'english';) 
 now change it to this ($config['language'] = 'kurdish';).
