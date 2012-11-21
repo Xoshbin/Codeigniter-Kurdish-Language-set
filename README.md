@@ -21,5 +21,5 @@ now change it to this ($config['language'] = 'kurdish';).
 Issues
 ======
 If you have any problem with UTF-8, Just put this line of code 
-header('Content-Type: text/html; charset=utf-8');
+( header('Content-Type: text/html; charset=utf-8'); )
 in (index.php) which it's in the root in the Codeigniter folder.
